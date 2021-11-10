@@ -1,0 +1,253 @@
+(footprint "ArduinoProMicro" (version 20211014) (generator pcbnew) (layer "F.Cu")
+  (tedit 609A912A)
+  (attr through_hole)
+  (fp_text reference "U1" (at 0 1.625 180) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+    (tstamp 78390f99-e139-467c-ba19-d69b9e27e4df)
+  )
+  (fp_text value "ProMicro" (at 0 0 180) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+    (tstamp 7371d821-c41b-4d43-8c8a-2fa664dd5dbf)
+  )
+  (fp_text user "col 3" (at 22.86 -2.921 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 056d0502-1898-4bde-852b-96e45c4ee3b5)
+  )
+  (fp_text user "RAW" (at 0 -12.827 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 28cf2735-de26-49c0-8c0b-e2125ed4863c)
+  )
+  (fp_text user "VCC" (at 7.62 -12.827 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 2f5508f4-aab3-41af-a80d-c461d7f47308)
+  )
+  (fp_text user "row D" (at 22.86 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 2fb532a0-8576-4146-8399-937b6ffe63a3)
+  )
+  (fp_text user "RST" (at 5.06 -13.1 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 3660f71b-b00f-429d-a0ae-2e9c2b9cb52c)
+  )
+  (fp_text user "row F" (at 20.32 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 3c70ef2c-4190-4033-8a11-e3e730e6c22d)
+  )
+  (fp_text user "D2" (at 2.54 -2.159 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 4dcad2cf-dff5-432e-9dda-ad65f62ceaa0)
+  )
+  (fp_text user "col 5" (at 27.94 -2.882578 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 4ea3d389-380e-4944-85f6-9702890a740f)
+  )
+  (fp_text user "row E" (at 15.24 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 51ac6d53-836f-4700-bae5-a75cfeb743a3)
+  )
+  (fp_text user "col 4" (at 25.318441 -2.882578 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 571a331a-2160-47ff-9523-a86dd0d21103)
+  )
+  (fp_text user "ProMicro" (at 14.854315 -7.746023 180) (layer "B.SilkS")
+    (effects (font (size 1 1) (thickness 0.12)) (justify mirror))
+    (tstamp 6c44f0f0-2e05-4270-adb3-01133a5b1865)
+  )
+  (fp_text user "B6" (at 27.94 -13.081 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 6ec3c8a2-9095-4c4c-9154-6e3012cde3ea)
+  )
+  (fp_text user "row B" (at 25.4 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 702a497a-0f9a-49e0-ae44-8b7353044b7e)
+  )
+  (fp_text user "col 2" (at 20.32 -2.921 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 7a21a3b8-2b29-4a61-9634-407e7eb1dca6)
+  )
+  (fp_text user "TX0" (at 0 -2.2 180) (layer "B.SilkS")
+    (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
+    (tstamp 7d3fd67a-2620-4215-88c2-35b42c29494a)
+  )
+  (fp_text user "row G" (at 17.78 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 94cb3d03-ebb2-4064-9a3c-89ca77086270)
+  )
+  (fp_text user "row A" (at 10.16 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp 96d8c27a-683d-4cc0-a51d-50aada2719da)
+  )
+  (fp_text user "row C" (at 12.7 -12.319 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp a309ee73-885e-4c49-ba10-2fd89a226d0b)
+  )
+  (fp_text user "D0/SCL" (at 12.7 -3.81 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp a375a892-df2f-4ec8-a737-23b04b144971)
+  )
+  (fp_text user "D1/SDA" (at 10.16 -3.81 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp a588bc93-d1b5-4d80-a871-c20f283a9b91)
+  )
+  (fp_text user "GND" (at 2.539999 -12.827 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp a593b47f-686f-446b-846a-33c7881239b6)
+  )
+  (fp_text user "col 0" (at 15.24 -2.921 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp c14980bf-2cf6-4efd-947e-a2861976a237)
+  )
+  (fp_text user "col 1" (at 17.78 -2.921 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp cc63288b-f546-40c8-bdcd-76253de2e242)
+  )
+  (fp_text user "GND" (at 5.079998 -2.667 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp d5c6c597-a4e2-4281-87a0-4eb069a922c0)
+  )
+  (fp_text user "GND" (at 7.62 -2.667 270) (layer "B.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+    (tstamp d9b40927-2e74-4054-8050-79524a5d9e53)
+  )
+  (fp_text user "col 5" (at 27.94 -2.882578 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 0928fc09-4d01-4cf7-a53f-069b7dc52068)
+  )
+  (fp_text user "GND" (at 5.079998 -2.667 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 0a01845c-8962-449e-a1ee-87f71d1a666f)
+  )
+  (fp_text user "col 1" (at 17.78 -2.921 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 13f90823-0d75-476d-b114-3a35fb25bd22)
+  )
+  (fp_text user "VCC" (at 7.62 -12.827 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 1ec07db9-1d7d-480e-aabd-d32bb0f3c4ee)
+  )
+  (fp_text user "D0/SCL" (at 12.7 -3.81 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 2eae053c-d207-40b7-a060-1697a0627908)
+  )
+  (fp_text user "GND" (at 7.62 -2.667 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 3502c225-53d6-4117-a689-a5d1ed759279)
+  )
+  (fp_text user "row E" (at 15.24 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 3b6b88a5-9367-4494-84ed-dead939d643e)
+  )
+  (fp_text user "row G" (at 17.78 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 4cc35ca8-5a1e-4e9f-8290-c986f14c7ec4)
+  )
+  (fp_text user "row C" (at 12.7 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 50856773-c7be-4910-9286-6468c5c7c02f)
+  )
+  (fp_text user "row A" (at 10.16 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 5e4ca3e2-af6d-463e-bed8-86411c45b30f)
+  )
+  (fp_text user "D2" (at 2.54 -2.159 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 6144ed1a-166b-4a0d-8524-f88318a337f2)
+  )
+  (fp_text user "RST" (at 5.05 -13 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 6cade70c-51ed-4639-918e-b4be1c413eaa)
+  )
+  (fp_text user "row D" (at 22.86 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 7a821514-9bff-4b26-adf7-f3b36e67b66c)
+  )
+  (fp_text user "GND" (at 2.54 -12.826999 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 8a1d6efb-2284-4cc7-8f96-119f2960ad81)
+  )
+  (fp_text user "col 3" (at 22.86 -2.921 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 942c1dd0-4a62-48e4-97c3-50842a6a879f)
+  )
+  (fp_text user "row B" (at 25.4 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 9a83c522-97ee-40ea-8416-4013b1592a5c)
+  )
+  (fp_text user "RAW" (at 0 -12.827 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp b010fc9a-b875-407a-9a30-2589a6cf32c0)
+  )
+  (fp_text user "col 2" (at 20.32 -2.921 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp b1757700-b78c-4085-9375-228e8eba96db)
+  )
+  (fp_text user "U1" (at 13.97 -5.995 180) (layer "F.SilkS") hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+    (tstamp c6e31296-1205-4b4c-b744-c2f99dfe408b)
+  )
+  (fp_text user "TX0" (at 0.000001 -2.3 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp cc67fce3-ee13-45d6-9aa4-afac1d052d6c)
+  )
+  (fp_text user "D1/SDA" (at 10.16 -3.81 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp d0be215d-d397-421a-9661-728221410932)
+  )
+  (fp_text user "B6" (at 27.94 -13.081 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp de2f20c8-d495-4533-a502-060fabf43c7b)
+  )
+  (fp_text user "col 4" (at 25.400001 -2.882578 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp f109ef7f-1230-4d0c-940e-99234ff90e2d)
+  )
+  (fp_text user "row F" (at 20.32 -12.319 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp fcefbfbb-ab90-49d0-8cdd-8edb8ddff2cf)
+  )
+  (fp_text user "col 0" (at 15.24 -2.921 270) (layer "F.SilkS") hide
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp ffc56893-85e0-49a5-ad72-dbef885a8a52)
+  )
+  (fp_line (start -3.81 1.27) (end -1.27 1.27) (layer "B.SilkS") (width 0.3) (tstamp 07c8cd8d-4104-4ef4-b386-f70e0f9c301d))
+  (fp_line (start -1.27 -16.51) (end -3.81 -16.51) (layer "B.SilkS") (width 0.3) (tstamp 42cf4c76-cb02-444b-a15e-212466e33224))
+  (fp_line (start 29.21 1.27) (end 26.67 1.27) (layer "B.SilkS") (width 0.3) (tstamp 45f32c42-d4a3-4096-bdf7-fbb7fd212c8e))
+  (fp_line (start 29.21 -16.51) (end 26.67 -16.51) (layer "B.SilkS") (width 0.3) (tstamp 62f9b858-4ed4-47d6-b588-537571d1e0b1))
+  (fp_line (start 29.21 -1.27) (end 29.21 1.27) (layer "B.SilkS") (width 0.3) (tstamp a3b9f0c3-65cd-445c-8996-47a6a3bfd70f))
+  (fp_line (start -3.81 -16.51) (end -3.81 -13.97) (layer "B.SilkS") (width 0.3) (tstamp c2c5e1ff-6eaf-4bfc-8c6a-5a556f02d42a))
+  (fp_line (start -3.81 -1.27) (end -3.81 1.27) (layer "B.SilkS") (width 0.3) (tstamp c7c1a00c-f464-4227-b4b6-11ce5970909a))
+  (fp_line (start 29.21 -16.51) (end 29.21 -13.97) (layer "B.SilkS") (width 0.3) (tstamp d1da0258-4f97-4774-9bab-62bcb5169e06))
+  (fp_line (start -5.334 -3.81) (end -5.334 -11.176) (layer "Dwgs.User") (width 0.2) (tstamp 0b6abaf0-84fc-4cac-90f3-a9c8a064b346))
+  (fp_line (start -0.254 -3.81) (end -5.334 -3.81) (layer "Dwgs.User") (width 0.2) (tstamp 6c2c4e74-735e-47df-9bbe-171a17598f9f))
+  (fp_line (start -5.334 -11.176) (end -0.254 -11.176) (layer "Dwgs.User") (width 0.2) (tstamp 6d78f37c-4cc4-430a-a985-09222c08b240))
+  (fp_line (start -0.254 -11.176) (end -0.254 -3.81) (layer "Dwgs.User") (width 0.2) (tstamp 99341af0-bb4a-49bc-b76e-b790486059d8))
+  (pad "1" thru_hole rect (at 0 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 5401010f-1ec8-4eb1-92fc-b62a395b0566))
+  (pad "2" thru_hole circle (at 2.54 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 1d9be03e-fc07-4af4-9ad2-45bd00efb596))
+  (pad "3" thru_hole circle (at 5.08 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp e5c81ba6-3c92-44e7-8d96-5bf3b7228432))
+  (pad "4" thru_hole circle (at 7.62 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 7155dbf1-e489-4059-a3b4-4858b566685a))
+  (pad "5" thru_hole circle (at 10.16 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 19d034de-f9bd-4b65-9a36-ab44a273fcc4))
+  (pad "6" thru_hole circle (at 12.7 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 92cb1f95-0c67-4576-9456-f6fb40ceedf6))
+  (pad "7" thru_hole circle (at 15.24 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp cde7c19a-bf2c-437e-a27e-46c28fd4166c))
+  (pad "8" thru_hole circle (at 17.78 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 3aa7eba4-7bf2-4f3c-8851-c7eb0d4fa1c9))
+  (pad "9" thru_hole circle (at 20.32 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 0cb79bb3-0fa1-44c6-be18-c8b419616559))
+  (pad "10" thru_hole circle (at 22.86 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 4d327c94-37ea-423b-93cb-bc41b34b4f68))
+  (pad "11" thru_hole circle (at 25.4 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 2cef0eb9-3c9d-4bc0-828e-f72d759e5269))
+  (pad "12" thru_hole circle (at 27.94 0) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 789749a9-62fc-45ed-b99f-ad1c817ac776))
+  (pad "13" thru_hole circle (at 27.94 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 35c22161-4f04-4833-8620-e703ece9e6e6))
+  (pad "14" thru_hole circle (at 25.4 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 17fd92f5-225a-4398-9409-237f6b87dd12))
+  (pad "15" thru_hole circle (at 22.86 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 2c738504-282f-4e46-a67c-a57fd3c6a7a5))
+  (pad "16" thru_hole circle (at 20.32 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp ab0c56d4-d3df-4474-9097-e1d86a25aa5c))
+  (pad "17" thru_hole circle (at 17.78 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 95d96dc4-8b6b-4f8e-8c77-7a9014a4f688))
+  (pad "18" thru_hole circle (at 15.24 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp e58789a3-7689-4a9b-9914-e2c794000cd0))
+  (pad "19" thru_hole circle (at 12.7 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 1b678201-402d-4602-a71c-4c57ebc3e8db))
+  (pad "20" thru_hole circle (at 10.16 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 6bca89eb-caac-475f-ad94-cc0f0de289e6))
+  (pad "21" thru_hole circle (at 7.62 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 79f15e7a-cd56-4706-a7cc-db45ba756d94))
+  (pad "22" thru_hole circle (at 5.08 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 525b76af-5db5-4705-9756-25f36f759657))
+  (pad "23" thru_hole circle (at 2.54 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 81ca586a-f51a-496d-9acc-2dbd6712828b))
+  (pad "24" thru_hole circle (at 0 -15.24) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu "B.SilkS" "F.Mask") (tstamp 378ef2be-8646-47b9-b2a7-37cdf89d58f7))
+  (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl"
+    (offset (xyz -13.96999979 -7.619999886 -5.841999912))
+    (scale (xyz 0.395 0.395 0.395))
+    (rotate (xyz 90 180 180))
+  )
+)
