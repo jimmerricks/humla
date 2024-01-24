@@ -7,3 +7,8 @@ The Humla is a 36-key low profile keyboard based on [the Reviung by gtips](https
 ![](./images/humla-2.jpg)
 
 ![](./images/humla-3.jpg)
+
+## 3D printed cases
+
+- Basic [case](./case) with cover by [@zzeneg](https://github.com/zzeneg)
+- Laptop [adapter](https://github.com/Lenbok/scad-keyboard-cases/tree/master/humla) and bumper by [@Lenbok](https://github.com/Lenbok)
